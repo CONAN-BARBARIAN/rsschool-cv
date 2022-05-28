@@ -40,7 +40,7 @@ always@(posedge Clk)
 	end	
 endmodule
 ```
-2. Javascript(Преобразования десятичного числа в двочиное(через рекурсию)
+2. Javascript(Преобразования десятичного числа в двоичное(через рекурсию)
 ```
 function testCycle(n) {
         if (n==0) {
