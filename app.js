@@ -40,8 +40,7 @@ const alien1 = new Alien("Ali", "I'm Ali the alien!", 10, 50)
 const alien2 = new Alien("Lien", "Run for your lives!", 15, 60)
 const bug1 = new Bug("Buggy", "Your debugger doesn't work with me!", 25, 100)
 const bug2 = new Bug("Erik", "I drink decaf!", 5, 120)
-const robot1 = new Robot("Tito", "I can cook, swim and dance!", 125, 30)
-const robot2 = new Robot("Terminator", "Hasta la vista, baby!", 155, 40)
+
 
 alien1.move();
 console.log(alien2.speed);
